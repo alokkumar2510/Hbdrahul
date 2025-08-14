@@ -1,30 +1,30 @@
-# Animated birthday website
+# 🎉 Rahul's Animated Birthday Website 🎂
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+An incredibly animated and interactive birthday website for Rahul, featuring:
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/alokkumarsahu2100-gmailcoms-projects/v0-animated-birthday-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/5pOPn3KFoQ0)
+## ✨ Features
+- Bouncing cake loading screen
+- Interactive quiz with special "7 CROREEEEEEEEE!" effect
+- Balloon-popping mini-game
+- Spinning 3D gift box with sparkle effects
+- Interactive birthday cake with blow/relight candles
+- Endless emoji rain and floating balloons
+- Smooth scroll animations and parallax effects
+- Fully responsive design
 
-## Overview
+## 🚀 Deployment
+This is a static HTML website that can be deployed anywhere:
+- GitHub Pages
+- Vercel
+- Netlify
+- Any static hosting service
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Simply upload the `index.html` file and you're ready to go!
 
-## Deployment
+## 🎮 Interactive Elements
+1. **Quiz**: Answer the question about Rahul's awesomeness
+2. **Balloon Game**: Pop balloons to increase your score
+3. **Magic Gift**: Click the spinning gift box for surprises
+4. **Birthday Cake**: Blow out and relight the candles
 
-Your project is live at:
-
-**[https://vercel.com/alokkumarsahu2100-gmailcoms-projects/v0-animated-birthday-website](https://vercel.com/alokkumarsahu2100-gmailcoms-projects/v0-animated-birthday-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/5pOPn3KFoQ0](https://v0.app/chat/projects/5pOPn3KFoQ0)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Built with love for a Class 11 friendship! 🎈
